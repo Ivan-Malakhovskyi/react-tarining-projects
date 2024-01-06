@@ -1,0 +1,41 @@
+
+h1,h2,h3,h4,h5,h6,p,li {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    display: block;
+    border-radius: 5px;
+}
+
+.topic {
+    text-align: center;
+    padding: 20px;
+}
+
+
+.slider {
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.left-arrow {
+    left: 10%;
+}
+
+.right-arrow {
+    right: 10%;
+}
+
+.left-arrow, .right-arrow {
+position: absolute;
+}
+
+
+
