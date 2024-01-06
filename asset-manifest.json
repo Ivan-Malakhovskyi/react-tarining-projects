@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/Ivan-Malakhovskyi/react-training-projects/static/css/main.7acaea2f.css",
-    "main.js": "/Ivan-Malakhovskyi/react-training-projects/static/js/main.b38decd9.js",
+    "main.css": "/Ivan-Malakhovskyi/react-training-projects/static/css/main.80ad1260.css",
+    "main.js": "/Ivan-Malakhovskyi/react-training-projects/static/js/main.70830387.js",
     "index.html": "/Ivan-Malakhovskyi/react-training-projects/index.html",
-    "main.7acaea2f.css.map": "/Ivan-Malakhovskyi/react-training-projects/static/css/main.7acaea2f.css.map",
-    "main.b38decd9.js.map": "/Ivan-Malakhovskyi/react-training-projects/static/js/main.b38decd9.js.map"
+    "static/media/arrow-left.svg": "/Ivan-Malakhovskyi/react-training-projects/static/media/arrow-left.1f7c9ddbfefd2897518a055249d2f36c.svg",
+    "static/media/arrow-right.svg": "/Ivan-Malakhovskyi/react-training-projects/static/media/arrow-right.b20e7839a3d4eb69516c977e43c34370.svg",
+    "main.80ad1260.css.map": "/Ivan-Malakhovskyi/react-training-projects/static/css/main.80ad1260.css.map",
+    "main.70830387.js.map": "/Ivan-Malakhovskyi/react-training-projects/static/js/main.70830387.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.b38decd9.js"
+    "static/css/main.80ad1260.css",
+    "static/js/main.70830387.js"
   ]
 }
