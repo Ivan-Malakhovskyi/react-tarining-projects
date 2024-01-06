@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ivan-Malakhovskyi/react-training-projects/static/css/main.7acaea2f.css",
+    "main.js": "/Ivan-Malakhovskyi/react-training-projects/static/js/main.b38decd9.js",
+    "index.html": "/Ivan-Malakhovskyi/react-training-projects/index.html",
+    "main.7acaea2f.css.map": "/Ivan-Malakhovskyi/react-training-projects/static/css/main.7acaea2f.css.map",
+    "main.b38decd9.js.map": "/Ivan-Malakhovskyi/react-training-projects/static/js/main.b38decd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.b38decd9.js"
+  ]
+}
