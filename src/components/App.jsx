@@ -1,3 +1,9 @@
+import { Carousel } from './carousel/Carousel';
+
 export const App = () => {
-  return <>React homework template</>;
+  return (
+    <>
+      <Carousel />
+    </>
+  );
 };
