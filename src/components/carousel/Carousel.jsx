@@ -13,12 +13,11 @@ export const Carousel = () => {
     const getImg = async () => {
       try {
         const { hits } = await serviceImages();
-        console.log(hits);
         setImg(
-          hits.map(image => ({
-            id: image.id,
-            largeImageURL: image.largeImageURL,
-            webformatURL: image.webformatURL,
+          hits.map(({ id, largeImageURL, webformatURL }) => ({
+            id,
+            largeImageURL,
+            webformatURL,
           }))
         );
       } catch (error) {
